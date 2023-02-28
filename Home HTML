@@ -1,0 +1,58 @@
+<nav>
+  <div class="home_1">
+    <div class="brand">
+      <h1 class="initials">Shadner J</h1>
+    </div>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Expertise</a></li>
+      <li><a href="#">Experience</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+</nav>
+<header>
+  <div class="header__titles">
+    <h1>Welcome.</h1>
+    <h2>Web Developer & Designer</h2>
+  </div>
+  <div class="cards">
+    <div class="card">
+      <div class="card__title">
+        <img src="https://alemacedo.com/files/images/codepen/svg/icon__place.svg" alt="map place icon">
+        <h1>Fort Lauderdale</h1>
+      </div>
+      <div class="card__body">
+        <p>3 Line Code</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card__title">
+        <img src="https://alemacedo.com/files/images/codepen/svg/icon__place.svg" alt="map place icon">
+        <h1>4+ Years of Experience</h1>
+      </div>
+      <div class="card__body">
+        <p>3 Line Code</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card__title">
+        <img src="https://alemacedo.com/files/images/codepen/svg/icon__place.svg" alt="map place icon">
+        <h1>Come Back to this</h1>
+      </div>
+      <div class="card__body">
+        <p>3 Line Code</p>
+      </div>
+    </div>
+  </div>
+  <div class="social-networks">
+    <ul>
+      <li><a href="#"><img src="https://alemacedo.com/files/images/codepen/svg/icon__facebook.svg" alt=""></a></li>
+      <li><a href="#"><img src="https://alemacedo.com/files/images/codepen/svg/icon__instagram.svg" alt=""></a></li>
+      <li><a href="#"><img src="https://alemacedo.com/files/images/codepen/svg/icon__twitter.svg" alt=""></a></li>
+    </ul>
+  </div>
+  <div class="explore">
+    <spam>DISCOVER MORE</spam>
+    <img src="https://alemacedo.com/files/images/codepen/svg/image__long-arrow.svg" alt="long arrow pointing down">
+  </div>
+  </div>
